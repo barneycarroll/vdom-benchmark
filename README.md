@@ -13,7 +13,7 @@ dom libraries.
 ## Build instructions
 
 ```sh
-$ node install
+$ npm install
 $ NODE_ENV=production gulp
 $ pub build --mode=release
 ```
